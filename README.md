@@ -8,3 +8,7 @@ Deep Neural Networks tflearn.DNN
 
 
 --https://www.youtube.com/watch?v=FFT4p6me2g0&t=169s
+
+
+
+PROTUGUES - http://www.nltk.org/howto/portuguese_en.html
